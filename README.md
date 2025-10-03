@@ -10,7 +10,7 @@ Keeping track of my learnings of Next.js topics
 | ------------------- | ------------------------------- |
 | Introuction         | [intro](./00_introduction/)     |
 | ESLint and Prettier | [linter](./01_eslint_prettier/) |
-| Routing             | [routes](./01_routing/)         |
+| Routing             | [routes](./02_routing/)         |
 
 <br>
 
